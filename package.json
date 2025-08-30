@@ -13,9 +13,11 @@
     "@dimforge/rapier3d-compat": "^0.15.0",
     "@react-three/drei": "^10.7.4",
     "@react-three/rapier": "^2.1.0",
+    "leva": "^0.10.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "three": "^0.179.1"
+    "three": "^0.179.1",
+    "three-custom-shader-material": "^6.3.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

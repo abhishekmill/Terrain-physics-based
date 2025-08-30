@@ -11,7 +11,7 @@ export function Terrain(props) {
           castShadow
           receiveShadow
           geometry={nodes.Plane.geometry}
-          scale={10}
+          scale={15}
         >
           <meshStandardMaterial />
         </mesh>
